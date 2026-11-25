@@ -43,16 +43,22 @@ header h3 {
     color: #a0c4ff;
 }
 
+nav {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    text-align: center;
+}
+
 nav a {
     text-decoration: none;
     color: black;
     font-weight: bold;
-    margin: 0 18px;
+    margin: 0 15px;
     font-size: 16px;
 }
 
 nav a:hover {
-    color: #a8dadc;
+    color: #a0c4ff;
     text-decoration: underline;
 }
 
